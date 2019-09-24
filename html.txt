@@ -1,0 +1,35 @@
+New Html Elements:
+The most interesting new HTML5 elements are
+1.new semantic elements(with can be easily understood by browser)  like <header><footer><article><section>.
+2.new attributes of form elements like number,date,time,calender,and range.
+3.new graphics elements:<svg> scalable vector.
+4.<audio><video>
+Selector
+
+Types of css:
+1.extenal ss
+2.Internal ss
+3.Inline ss-style attribute
+
+css selector:
+1.universal(*)-for all
+2.class(.)-not unique
+3.id(#)-unique
+4.Type/Element-particular element
+
+priority:
+1.id
+2.class
+3.type
+note:
+If we wnat to give same properties for different classes we use comma(,)
+note:
+1.list-style:none(to remove bullets)
+ex:
+home
+about
+help
+2.display :inline-block(one line)
+ex:
+home about help
+
